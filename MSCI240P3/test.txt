@@ -1,0 +1,11 @@
+Q:Is it a living thing?
+Q:Can it make a noise?
+A:monkey
+Q:Is it a big thing?
+A:elephant
+A:ant
+Q:Does it cost a lot of money?
+A:building
+Q:Is it rare?
+A:star
+A:dirt

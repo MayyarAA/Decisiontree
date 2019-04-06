@@ -1,0 +1,11 @@
+Q:Q:Is it an animal?
+Q:Q:Can it fly?
+A:A:bird
+Q:Q:Does it have a tail?
+A:A:mouse
+A:A:spider
+Q:Q:Does it have wheels?
+A:A:bicycle
+Q:Q:Is it nice?
+A:A:TA
+A:A:teacher
