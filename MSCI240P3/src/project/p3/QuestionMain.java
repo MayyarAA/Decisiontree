@@ -1,15 +1,5 @@
 package project.p3;
-// CSE 143, Winter 2009, Marty Stepp
 
-// Homework 7: 20 Questions
-//
-// To use the jGRASP debugger with this program, set a breakpoint
-// and once the execution breaks, open 'this' or 'tq' on the left,
-// then look at its variable 'tree'.  That's your QuestionTree.
-// Drag your 'tree' over to the right to see a visualization of it.
-//
-// (Your QuestionTree is constructed by this file on line 30.
-// The overall loop to play games is around line 68.)
 
 import java.io.File;
 import java.io.FileNotFoundException;
